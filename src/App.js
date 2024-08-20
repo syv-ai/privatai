@@ -189,7 +189,7 @@ const LandingPage = () => {
       {/* CTA Section */}
       <section className="bg-gradient-to-r from-blue-600 to-blue-800 text-white py-24">
         <div className="container mx-auto px-4 text-center">
-          <h2 className="text-5xl font-bold mb-8">Klar til at revolutionere jeres arbejdsgang?</h2>
+          <h2 className="text-5xl font-bold mb-8">Klar til at effektivisere jeres arbejdsgang?</h2>
           <p className="text-xl mb-12 max-w-3xl mx-auto">Lad os vise dig, hvordan PrivatAI kan transformere din virksomheds produktivitet og sikkerhed. Book en personlig demo og oplev kraften af sikker AI.</p>
           <button className="bg-white text-blue-600 px-10 py-4 rounded-full font-semibold text-xl hover:bg-blue-100 transition duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-1 inline-flex items-center">
             Book en demo <ChevronRight className="ml-3" size={24} />
