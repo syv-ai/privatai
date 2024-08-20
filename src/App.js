@@ -9,7 +9,7 @@ const LandingPage = () => {
       {/* Header */}
       <header className="bg-white shadow-md sticky top-0 z-50">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-          <div className="text-3xl font-extrabold text-blue-600">PrivatAI</div>
+          <div className="text-3xl font-extrabold text-blue-600">SikkerAI</div>
           <nav className="hidden md:block">
             <ul className="flex space-x-8 items-center">
               <li><a href="#fordele" className="text-gray-600 hover:text-blue-600 transition duration-300">Fordele</a></li>
@@ -96,7 +96,7 @@ const LandingPage = () => {
       {/* Benefits Section */}
       <section id="fordele" className="py-24">
         <div className="container mx-auto px-4">
-          <h2 className="text-5xl font-bold text-center mb-16">Fordele ved PrivatAI</h2>
+          <h2 className="text-5xl font-bold text-center mb-16">Fordele ved SikkerAI</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
             <div className="bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition duration-300 transform hover:-translate-y-2">
               <Users className="text-blue-600 mb-6 mx-auto" size={64} />
@@ -157,10 +157,10 @@ const LandingPage = () => {
       {/* How It Works Section */}
       <section id="saadan-virker-det" className="py-24">
         <div className="container mx-auto px-4">
-          <h2 className="text-5xl font-bold text-center mb-16">Sådan virker PrivatAI</h2>
+          <h2 className="text-5xl font-bold text-center mb-16">Sådan virker SikkerAI</h2>
           <div className="max-w-4xl mx-auto bg-white p-12 rounded-3xl shadow-xl">
             <p className="text-xl leading-relaxed mb-8">
-              PrivatAI giver dine medarbejdere adgang til deres helt egen og private AI-chat. Her kan de nemt og sikkert interagere med avancerede sprogmodeller, uden at deres data bliver delt eller kompromitteret.
+              SikkerAI giver dine medarbejdere adgang til deres helt egen og private AI-chat. Her kan de nemt og sikkert interagere med avancerede sprogmodeller, uden at deres data bliver delt eller kompromitteret.
             </p>
             <div className="space-y-6">
               <div className="flex items-center space-x-4 text-blue-600">
@@ -190,7 +190,7 @@ const LandingPage = () => {
       <section className="bg-gradient-to-r from-blue-600 to-blue-800 text-white py-24">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-5xl font-bold mb-8">Klar til at effektivisere jeres arbejdsgang?</h2>
-          <p className="text-xl mb-12 max-w-3xl mx-auto">Lad os vise dig, hvordan PrivatAI kan transformere din virksomheds produktivitet og sikkerhed. Book en personlig demo og oplev kraften af sikker AI.</p>
+          <p className="text-xl mb-12 max-w-3xl mx-auto">Lad os vise dig, hvordan SikkerAI kan transformere din virksomheds produktivitet og sikkerhed. Book en personlig demo og oplev kraften af sikker AI.</p>
           <button className="bg-white text-blue-600 px-10 py-4 rounded-full font-semibold text-xl hover:bg-blue-100 transition duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-1 inline-flex items-center">
             Book en demo <ChevronRight className="ml-3" size={24} />
           </button>
@@ -202,7 +202,7 @@ const LandingPage = () => {
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-12">
             <div className="col-span-2">
-              <h3 className="text-3xl font-bold mb-4">PrivatAI</h3>
+              <h3 className="text-3xl font-bold mb-4">SikkerAI</h3>
               <p className="text-gray-400 mb-4">Sikker og personlig AI-løsning til din virksomhed. Vi revolutionerer måden, virksomheder arbejder på, med avanceret AI-teknologi og uovertruffen datasikkerhed.</p>
             </div>
             <div>
@@ -213,9 +213,9 @@ const LandingPage = () => {
             </div>
           </div>
           <div className="mt-12 pt-8 border-t border-gray-800 text-center text-gray-400">
-            <p>&copy; 2024 PrivatAI.dk - Alle rettigheder forbeholdes.</p>
+            <p>&copy; 2024 SikkerAI.dk - Alle rettigheder forbeholdes.</p>
             <ul>
-              <li className="inline-block mx-2"><a href="https://syv.ai" className="hover:text-white transition duration-300">PrivatAI.dk er en del af syv.ai</a></li>
+              <li className="inline-block mx-2"><a href="https://syv.ai" className="hover:text-white transition duration-300">SikkerAI.dk er en del af syv.ai</a></li>
             </ul>
           </div>
         </div>
