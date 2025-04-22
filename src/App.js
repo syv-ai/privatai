@@ -213,7 +213,7 @@ const LandingPage = () => {
             </div>
           </div>
           <div className="mt-12 pt-8 border-t border-gray-800 text-center text-gray-400">
-            <p>&copy; 2024 SikkerAI.dk - Alle rettigheder forbeholdes.</p>
+            <p>&copy; 2025 SikkerAI.dk - Alle rettigheder forbeholdes.</p>
             <ul>
               <li className="inline-block mx-2"><a href="https://syv.ai" className="hover:text-white transition duration-300">SikkerAI.dk er en del af syv.ai</a></li>
             </ul>
