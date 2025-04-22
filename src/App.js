@@ -17,12 +17,12 @@ const LandingPage = () => {
               <li><a href="#saadan-virker-det" className="text-gray-600 hover:text-blue-600 transition duration-300">Sådan virker det</a></li>
               <li>
                 <a
-                  href="https://calendly.com/syv-ai/llm-generativ-ai-med-mads-henrichsen"
+                  href="https://chat.sikkerai.dk"
                   className="bg-blue-600 text-white px-4 py-2 rounded-full font-semibold hover:bg-blue-700 transition duration-300"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Book et møde
+                  Kom i gang nu
                 </a>
               </li>
             </ul>
@@ -42,13 +42,13 @@ const LandingPage = () => {
               <li><a href="#saadan-virker-det" className="text-gray-600 hover:text-blue-600 transition duration-300" onClick={() => setIsMenuOpen(false)}>Sådan virker det</a></li>
               <li>
                 <a
-                  href="https://calendly.com/syv-ai/llm-generativ-ai-med-mads-henrichsen"
+                  href="https://chat.sikkerai.dk"
                   className="bg-blue-600 text-white px-4 py-2 rounded-full font-semibold hover:bg-blue-700 transition duration-300"
                   target="_blank"
                   rel="noopener noreferrer"
                   onClick={() => setIsMenuOpen(false)}
                 >
-                  Book et møde
+                  Kom i gang nu
                 </a>
               </li>
             </ul>
@@ -75,7 +75,7 @@ const LandingPage = () => {
                 Giv dine medarbejdere adgang til deres egen sikre AI-assistent, skræddersyet til deres workflow og med 100% datasikkerhed.
               </p>
               <a 
-                href="https://calendly.com/syv-ai/llm-generativ-ai-med-mads-henrichsen"
+                href="https://chat.sikkerai.dk"
                 className="inline-flex items-center bg-white text-blue-600 px-8 py-4 rounded-full font-semibold text-lg hover:bg-yellow-300 hover:text-blue-800 transition duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-1 animate-fade-in-up animation-delay-600"
                 target="_blank"
                 rel="noopener noreferrer"
